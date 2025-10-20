@@ -1,6 +1,4 @@
 //used help from chatGPT
-//did not have enough time to do output HTML file and film the video
-//i was struggling with 4 assignments due on the same day and working full time
 "use client";
 import { useEffect, useState } from "react";
 
