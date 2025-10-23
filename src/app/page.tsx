@@ -2,6 +2,7 @@
 "use client";
 import { useEffect, useState } from "react";
 
+
 type Tab = { title: string; content: string };
 
 const MAX_TABS = 15;
